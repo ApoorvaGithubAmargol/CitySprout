@@ -5,7 +5,7 @@ This project prerequisites:
 - Basic knowledge of Arduino IDE.
 - Working of ESP32 dev module (pin outs).
 - Basics of coding.
-- Basics of working of electronic circuits and sensors like PIR sensor, Ultrasonic sensor, soil moisture sensor, pH sensor, water level sensor.
+- Basics of working of electronic circuits and sensors like PIR sensor, Ultrasonic sensor, soil moisture sensor, pH sensor, water level sensor, DHT22 sensor.
 
 -------------------------------------------------------------
 
